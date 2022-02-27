@@ -4,11 +4,10 @@
     "slug": "crypto-trader",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/PBTC.png",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/PBTC_splash_icon.png",
+      "backgroundColor": "#0e1d29"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -20,13 +19,8 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
     }
   }
 }
